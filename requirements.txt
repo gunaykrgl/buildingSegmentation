@@ -1,0 +1,5 @@
+gradio==4.24.0
+keras==2.15.0
+matplotlib==3.7.1
+numpy==1.23.5
+tensorflow
