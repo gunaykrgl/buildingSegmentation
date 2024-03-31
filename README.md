@@ -29,9 +29,9 @@ You can try the application without installation by navigating to the following 
 [Building Footprint Segmentation](https://huggingface.co/spaces/gunayk3/building_footprint_segmentation)
 
 ## Screenshots
-<picture><img style="pointer-events: none" src="https://raw.githubusercontent.com/gunaykrgl/buildingSegmentation/main/screenshots/scr1.png" width="600"></picture>
-<picture><img style="pointer-events: none" src="https://raw.githubusercontent.com/gunaykrgl/buildingSegmentation/main/screenshots/scr2.png" width="600"></picture>
-<picture><img style="pointer-events: none" src="https://raw.githubusercontent.com/gunaykrgl/buildingSegmentation/main/screenshots/scr3.png" width="600"></picture>
+<img src="https://raw.githubusercontent.com/gunaykrgl/buildingSegmentation/main/screenshots/scr1.png" width="600">
+<img src="https://raw.githubusercontent.com/gunaykrgl/buildingSegmentation/main/screenshots/scr2.png" width="600">
+<img src="https://raw.githubusercontent.com/gunaykrgl/buildingSegmentation/main/screenshots/scr3.png" width="600">
 
 # Local Installation
 ```
