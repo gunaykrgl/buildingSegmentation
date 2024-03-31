@@ -7,7 +7,7 @@ The figure below showcases the input and output image expected. In the mask pixe
 
 ![Expected input and output](https://raw.githubusercontent.com/gunaykrgl/buildingSegmentation/main/Notebook/task_definition.png)
 
-The training and Machine-learning related code is found at [the Notebook](https://raw.githubusercontent.com/gunaykrgl/buildingSegmentation/main/Notebook/Building_Segmentation.ipynb).
+The training and Machine-learning related code is found at [the Notebook](https://github.com/gunaykrgl/buildingSegmentation/blob/main/Notebook/Building_Segmentation.ipynb).
 
 # Data
 The data used in this project is sourced from [Road and Building Detection Datasets](https://www.cs.toronto.edu/~vmnih/data/) with the following citation:
