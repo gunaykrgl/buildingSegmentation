@@ -10,7 +10,7 @@ A binary segmentation mask (of the same height and width with the input image) s
 
 The figure below showcases the input and output image expected. In the mask pixels that correspond to pixels in the input image are white and background is black.
 
-![Expected input and output](images/task_definition.png)
+![Expected input and output](https://raw.githubusercontent.com/gunaykrgl/buildingSegmentation/main/task_definition.png)
 
 # Data
 The data used in this project is sourced from [Road and Building Detection Datasets](https://www.cs.toronto.edu/~vmnih/data/) with the following citation:
