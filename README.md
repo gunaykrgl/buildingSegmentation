@@ -30,13 +30,13 @@ You can try the application without installation by navigating to the following 
 
 ## Screenshots
 <picture>
-<img src="https://raw.githubusercontent.com/gunaykrgl/buildingSegmentation/main/screenshots/scr1.png" width="600"/>
+<img src="https://raw.githubusercontent.com/gunaykrgl/buildingSegmentation/main/screenshots/scr1.png" width="600">
 </picture>
 <picture>
-<img src="https://raw.githubusercontent.com/gunaykrgl/buildingSegmentation/main/screenshots/scr2.png" width="600"/>
+<img src="https://raw.githubusercontent.com/gunaykrgl/buildingSegmentation/main/screenshots/scr2.png" width="600">
 </picture>
 <picture>
-<img src="https://raw.githubusercontent.com/gunaykrgl/buildingSegmentation/main/screenshots/scr3.png" width="600"/>
+<img src="https://raw.githubusercontent.com/gunaykrgl/buildingSegmentation/main/screenshots/scr3.png" width="600">
 </picture>
 
 # Local Installation
