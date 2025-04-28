@@ -35,7 +35,7 @@ You can try the application without installation by navigating to the following 
 
 # Local Installation
 ```
-gh repo clone gunaykrgl/buildingSegmentation
+git clone https://github.comgunaykrgl/buildingSegmentation
 cd buildingSegmentation
 pip install -r requirements.txt
 ```
