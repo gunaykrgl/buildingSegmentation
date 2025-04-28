@@ -1,5 +1,5 @@
-gradio==4.24.0
+gradio
 keras==2.15.0
 matplotlib==3.7.1
 numpy==1.23.5
-tensorflow==2.15.1
+tensorflow
