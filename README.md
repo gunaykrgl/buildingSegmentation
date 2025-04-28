@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ## Running Locally
 After local installation, the application can be run by the following command:
 ```
-gradio run demo.py
+gradio run app.py
 ```
 
 After this command is run, there will be a localhost url be generated at the end of the outputs. Later, the application can be used by navigating to the url in a web browser.
